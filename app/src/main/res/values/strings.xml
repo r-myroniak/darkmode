@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DarkModeSample</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="system_default_mode">System Default Mode</string>
+    <string name="action_settings">Test IDP</string>
+</resources>
